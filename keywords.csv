@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ben Gurion',de,Persons,#ff0000,#ff0000,2,0.8
 'Meir Amit',de,Persons,#ff0000,#ff0000,2,0.8
 'Golda Meir',de,Persons,#ff0000,#ff0000,2,0.8
 'Nakba',de,Topics,#00ff00,#00ff00,2,0.8
-'Ofer Prison',de,Places,#00ff00,#00ff00,2,0.8
 'Elbit Systems',de,Companies,#0000ff,#0000ff,2,0.8
+'Ofer Prison',de,Places,#00ff00,#00ff00,2,0.8
+'Ben Gurion',de,Persons,#ff0000,#ff0000,1,0.6800001050000001
 'Sde Teiman',de,Places,#00ff00,#00ff00,1,0.68
