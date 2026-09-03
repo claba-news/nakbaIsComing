@@ -1,31 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Klimawandel Kohlendioxid',de,Klimawandel,#ff0000,#ff0000,2,0.8197505700000001
-'Klimawandel Verursacher',de,Klimawandel,#ff0000,#ff0000,2,0.81090009
-'Klimawandel Migration',de,Klimawandel,#ff0000,#ff0000,2,0.784050405
-'Klimawandel Aerosole',de,Klimawandel,#ff0000,#ff0000,2,0.765750075
-'Klimawandel Adaption',de,Klimawandel,#ff0000,#ff0000,2,0.765150015
-'Klimawandel Anpassungsmassnahmen',de,Klimawandel,#ff0000,#ff0000,1,0.765000015
-'Klimawandel Mitigation',de,Klimawandel,#ff0000,#ff0000,1,0.765
-'Anthropogener Klimawandel',de,Klimawandel,#ff0000,#ff0000,1,0.7565
-'Klimawandel Ursachen',de,Klimawandel,#ff0000,#ff0000,2,0.7251277829999999
-'Klimawandel Emissionen',de,Klimawandel,#ff0000,#ff0000,3,0.6975227295
-'Kipppunkte Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.695150015
-'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.6878741961818182
-'Klimawandel Treibhausgase',de,Klimawandel,#ff0000,#ff0000,1,0.675750525
-'Klimawandel Vulkanausbrüche',de,Klimawandel,#ff0000,#ff0000,1,0.65088763875
-'Klimanotstand',de,Klimawandel,#ff0000,#ff0000,1,0.6505501192500001
-'Klimawandel Sonnenaktivität',de,Klimawandel,#ff0000,#ff0000,1,0.65025
-'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.595150015
-'Klimawandel Konsum',de,Klimawandel,#ff0000,#ff0000,1,0.554412996525
-'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.4128693674055356
-'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2779757027715415
-'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2349033155453851
-'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2170047519196466
-'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,2,0.2101041742076703
-'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.2035949370878094
-'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.1898437218694051
-'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.1871170669790395
-'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.1707173632890979
-'Urbane Wärmeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.1172677833327298
-'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.1171402705827298
-'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.1171402705827298
+'Ben Gurion',de,Persons,#ff0000,#ff0000,2,0.8
+'Meir Amit',de,Persons,#ff0000,#ff0000,2,0.8
+'Golda Meir',de,Persons,#ff0000,#ff0000,2,0.8
+'Nakba',de,Topics,#00ff00,#00ff00,2,0.8
+'Sde Teiman',de,Places,#00ff00,#00ff00,2,0.8
+'Ofer Prison',de,Places,#00ff00,#00ff00,2,0.8
+'Elbit Systems',de,Companies,#0000ff,#0000ff,2,0.8
