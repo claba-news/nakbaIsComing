@@ -1,23 +1,13 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Katherina Reiche,Katherina Reiche,PER,0.28947368421052627,0.0,de,1.9
-Markus Krebber,Markus Krebber,PER,0.0,0.0,de,1.9
-Carsten Schneider,Carsten Schneider,PER,-0.7105263157894738,0.0,de,1.9
-Gerhard Neuscheler,Gerhard Neuscheler,PER,0.0,0.0,de,1.9
-Wetter-Experte Axel Bojanowski,Wetter-Experte Axel Bojanowski,PER,-0.35,0.5,de,1.0
-Helmut Salzer,Helmut Salzer,PER,0.0,0.0,de,1.0
-Chinas Muskelspiel,Chinas Muskelspiel,PER,0.0,0.0,de,1.0
-RWE-Chef Krebber,RWE-Chef Krebber,PER,0.0,0.0,de,1.0
-Niels Hovius,Niels Hovius,PER,0.0,0.0,de,1.0
-heliumgefüllte Flugkörper,heliumgefüllte Flugkörper,PER,0.0,0.0,de,1.0
-Tino Chrupalla,Tino Chrupalla,PER,0.7,0.0,de,1.0
-Tino Chrupallas,Tino Chrupallas,PER,1.0,0.0,de,1.0
-Wen wunderts,Wen wunderts,PER,0.0,0.0,de,1.0
-Le Pen,Le Pen,PER,0.0,0.0,de,1.0
-Friedrich Merz,Friedrich Merz,PER,0.0,0.0,de,1.0
-Jörg Kachelmann,Jörg Kachelmann,PER,0.0,0.0,de,1.0
-Wetter-Experte Jörg Kachelmann,Wetter-Experte Jörg Kachelmann,PER,-0.7,0.0,de,1.0
-Mario Petzold,Mario Petzold,PER,0.7,0.0,de,1.0
-Jakob Mayr,Jakob Mayr,PER,0.0,0.0,de,1.0
-Donald Tusk,Donald Tusk,PER,0.7,0.0,de,1.0
-Norbert Totschni,Norbert Totschni,PER,0.0,0.0,de,1.0
-Margit Laufer,Margit Laufer,PER,0.0,0.0,de,1.0
+Itamar Ben-Gvir,Itamar Ben-Gvir,PER,-0.125,0.078125,de,6.4
+Israel Katz,Israel Katz,PER,-0.35714285714285715,0.0,de,2.8
+Israels Sicherheitsminister Itamar Ben-Gvir,Israels Sicherheitsminister Itamar Ben-Gvir,PER,-1.0526315789473684,0.0,de,1.9
+Christoph Heusgen,Christoph Heusgen,PER,0.5263157894736842,0.5263157894736842,de,1.9
+Jehuda Katz,Jehuda Katz,PER,0.0,0.0,de,1.8
+Jürgen Hardt,Jürgen Hardt,PER,0.0,0.0,de,1.0
+Israels Minister Itamar Ben-Gvir ,Israels Minister Itamar Ben-Gvir ,PER,0.0,0.0,de,1.0
+Israels Polizeiminister,Israels Polizeiminister,PER,0.0,1.0,de,1.0
+Itamar Ben-Gvirs,Itamar Ben-Gvirs,PER,-1.0,0.0,de,1.0
+Konrad Adenauer,Konrad Adenauer,PER,0.0,0.0,de,1.0
+David Ben Gurion,David Ben Gurion,PER,0.0,0.0,de,1.0
+Andreas Püttmann e,Andreas Püttmann e,PER,0.0,1.0,de,1.0

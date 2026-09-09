@@ -1,58 +1,19 @@
 ,phrase,label,sentiment,subjectivity,language,count
-DWD,DWD,ORG,0.0,0.0,de,8.200000000000001
-Cookies,Cookies,ORG,0.765625,0.0,de,6.4
-Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.15217391304347827,0.0,de,4.6
-EU,EU,ORG,0.44594594594594594,0.13513513513513514,de,3.6999999999999997
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.7142857142857143,0.0,de,2.8
-CDU,CDU,ORG,-0.3035714285714286,0.0,de,2.8
-SPD,SPD,ORG,-0.8947368421052632,0.0,de,1.9
-Sommer-Bilanz,Sommer-Bilanz,ORG,0.0,0.0,de,1.9
-Ar­chi­tek­t*in­nen,Ar­chi­tek­t*in­nen,ORG,0.0,0.0,de,1.9
-AfD-Chef,AfD-Chef,ORG,0.7368421052631579,0.0,de,1.9
-ARD-Sommerinterview,ARD-Sommerinterview,ORG,0.0,0.0,de,1.9
-…,…,ORG,-0.3684210526315789,0.0,de,1.9
-BUND,BUND,ORG,-0.3684210526315789,0.0,de,1.9
-Deutschland,Deutschland,ORG,0.7368421052631579,0.0,de,1.9
-Rassemblement national,Rassemblement national,ORG,0.5263157894736842,0.2631578947368421,de,1.9
-Spanien…,Spanien…,ORG,0.0,0.0,de,1.0
-dpa,dpa,ORG,0.0,0.0,de,1.0
-AfD-Chef Chrupalla,AfD-Chef Chrupalla,ORG,0.0,0.0,de,1.0
-Aussag…,Aussag…,ORG,0.0,0.0,de,1.0
-ARD-Interview,ARD-Interview,ORG,0.7,0.0,de,1.0
-wi…,wi…,ORG,0.0,0.0,de,1.0
-EU-Klimawandeldienst,EU-Klimawandeldienst,ORG,0.0,0.0,de,1.0
-Europa,Europa,ORG,0.7,0.0,de,1.0
-F.A.Z.,F.A.Z.,ORG,0.0,0.0,de,1.0
-Offshore-Windkraft,Offshore-Windkraft,ORG,0.0,0.0,de,1.0
-Hür…,Hür…,ORG,0.0,0.0,de,1.0
-GFZ Helmholtz-Zentrum,GFZ Helmholtz-Zentrum,ORG,0.0,0.0,de,1.0
-IMAGO/ZUMA Press,IMAGO/ZUMA Press,ORG,0.0,0.0,de,1.0
-RWE-Chef,RWE-Chef,ORG,0.0,0.0,de,1.0
-Zentrum der polnischen Hauptstadt,Zentrum der polnischen Hauptstadt,ORG,0.0,0.0,de,1.0
-is a schware Partie,is a schware Partie,ORG,0.0,0.0,de,1.0
-kl…,kl…,ORG,0.0,0.0,de,1.0
-Bundeskabinett,Bundeskabinett,ORG,-0.15000000000000002,0.0,de,1.0
-Eu…,Eu…,ORG,0.0,0.0,de,1.0
-ko…,ko…,ORG,-0.35,0.0,de,1.0
-No…,No…,ORG,0.0,0.0,de,1.0
-RWE,RWE,ORG,0.0,0.0,de,1.0
-Linken,Linken,ORG,-0.7,0.0,de,1.0
-LNG,LNG,ORG,0.0,0.0,de,1.0
-AKW-Abschaltungen,AKW-Abschaltungen,ORG,1.0,0.0,de,1.0
-Atomkraft,Atomkraft,ORG,1.0,0.0,de,1.0
-IMHO,IMHO,ORG,0.7,0.0,de,1.0
-Deutsche Bauernverband,Deutsche Bauernverband,ORG,0.0,0.0,de,1.0
-EnBW,EnBW,ORG,0.0,0.0,de,1.0
-Landtagswahl in Sachsen-Anhalt,Landtagswahl in Sachsen-Anhalt,ORG,0.0,0.0,de,1.0
-AfD,AfD,ORG,-0.7,0.0,de,1.0
-Grünen,Grünen,ORG,-0.7,0.0,de,1.0
-Robert-Koch-Institut,Robert-Koch-Institut,ORG,0.0,0.0,de,1.0
-Kohleland Polen,Kohleland Polen,ORG,0.0,0.0,de,1.0
-Unterneh…,Unterneh…,ORG,0.0,0.0,de,1.0
-Bund für Umwelt und Naturschutz,Bund für Umwelt und Naturschutz,ORG,0.0,0.0,de,1.0
-Klimastress,Klimastress,ORG,0.0,0.0,de,1.0
-Taliban,Taliban,ORG,0.0,0.0,de,1.0
-Taliban …,Taliban …,ORG,0.0,0.0,de,1.0
-RKI,RKI,ORG,0.0,0.0,de,1.0
-Stanford University,Stanford University,ORG,0.0,0.0,de,1.0
-TTS-Player,TTS-Player,ORG,0.0,0.0,de,1.0
+EU-Sanktionen,EU-Sanktionen,ORG,0.0,0.0,de,2.8
+KAS,KAS,ORG,0.18421052631578946,0.5263157894736842,de,1.9
+Konrad-Adenauer-Stiftung,Konrad-Adenauer-Stiftung,ORG,0.18421052631578946,0.5263157894736842,de,1.9
+Zentralrat der Juden,Zentralrat der Juden,ORG,0.0,0.0,de,1.9
+Anadolu,Anadolu,ORG,0.0,0.0,de,1.8
+picture alliance,picture alliance,ORG,0.0,0.0,de,1.8
+Hisbollah,Hisbollah,ORG,-1.0,0.0,de,1.0
+Militär,Militär,ORG,0.0,0.0,de,1.0
+tö…,tö…,ORG,0.0,0.0,de,1.0
+K…,K…,ORG,0.0,0.0,de,1.0
+Zentralrat der Juden in Deutschland,Zentralrat der Juden in Deutschland,ORG,0.7,0.0,de,1.0
+israelische Armee,israelische Armee,ORG,0.0,0.0,de,1.0
+Jüdische Kraft,Jüdische Kraft,ORG,-0.7,0.0,de,1.0
+Ozma Jehudit,Ozma Jehudit,ORG,-0.7,0.0,de,1.0
+Bundestag,Bundestag,ORG,0.0,0.0,de,1.0
+Verteidigungsministe…,Verteidigungsministe…,ORG,0.0,0.0,de,1.0
+libanesische Hisbollah-Miliz,libanesische Hisbollah-Miliz,ORG,0.0,0.0,de,1.0
+israe…,israe…,ORG,0.0,0.0,de,1.0
