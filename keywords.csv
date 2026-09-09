@@ -16,3 +16,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meir Amit',de,Persons,#ff0000,#ff0000,1,0.420360105
 'adidas Israel',de,Companies,#0000ff,#0000ff,1,0.8492282619925
 'Zentralrat der Juden',de,Organisations,#ff00ff,#ff00ff,1,0.81492282619925
+'ICC Israel',de,Organisations,#ff00ff,#ff00ff,1,0.81492285452619925
+'Assoziierungsabkommen EU-Israel',de,Organisations,#ff00ff,#ff00ff,1,0.81495452282619925
