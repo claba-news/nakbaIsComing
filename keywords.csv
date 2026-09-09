@@ -12,4 +12,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Golda Meir',de,Persons,#ff0000,#ff0000,1,0.49121413
 'Nakba',de,Topics,#00ff00,#00ff00,1,0.420714884645
 'Meir Amit',de,Persons,#ff0000,#ff0000,1,0.420360105
-'Ofer Prison',de,Places,#00ff00,#00ff00,1,0.35496425
+'Ofer Gefängnis',de,Places,#00ff00,#00ff00,1,0.835496425
+'Ofer Prison',en,Places,#00ff00,#00ff00,1,0.735496425
