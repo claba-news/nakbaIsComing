@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francesca Albanese',de,Persons,#ff0000,#ff0000,1,0.61377395275
 'Ben Gurion',de,Persons,#ff0000,#ff0000,1,0.5255335098982143
 'Sde Teiman',de,Places,#00ff00,#00ff00,1,0.4954713
-'Nakba',de,Topics,#00ff00,#00ff00,1,0.4933702937000001
 'Elbit Systems',de,Companies,#0000ff,#0000ff,1,0.492282619925
 'Golda Meir',de,Persons,#ff0000,#ff0000,1,0.49121413
+'Nakba',de,Topics,#00ff00,#00ff00,1,0.420714884645
 'Meir Amit',de,Persons,#ff0000,#ff0000,1,0.420360105
 'Ofer Prison',de,Places,#00ff00,#00ff00,1,0.35496425
