@@ -86,8 +86,9 @@ for index, column in newsDf.iterrows():
     i += 1
     if(i % 50 == 0):
         print(i)
-    quote = str(column.title)+'. ' +str(column.description)+' '+str(column.content)
+    #quote = str(column.title)+'. ' +str(column.description)+' '+str(column.content)
     #quote = str(column.title)+'. ' +str(column.description)
+	quote = str(column.de)
     blob = TextBlobDE(quote)
     newsDf.loc[newsDf['url'] == column['url'], 'subjectivity'] = blob.sentiment.subjectivity
     newsDf.loc[newsDf['url'] == column['url'], 'sentiment'] = blob.sentiment.polarity
