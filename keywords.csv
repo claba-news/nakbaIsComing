@@ -1,8 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'adidas Israel',de,Companies,#0000ff,#0000ff,1,0.8492282619925
+'Sylvia Rafael',de,Persons,#ff0000,#ff0000,1,0.861377395275
 'Itamar Ben-Gvir',de,Persons,#ff0000,#ff0000,1,0.804913
 'Hamas',de,Organisations,#ff00ff,#ff00ff,1,0.79264263472692
 'Zentralrat der Juden',de,Organisations,#ff00ff,#ff00ff,3,0.7251486784289581
+'adidas Israel',de,Companies,#0000ff,#0000ff,1,0.721994037693625
 'Assoziierungsabkommen EU-Israel',de,Organisations,#ff00ff,#ff00ff,1,0.7204614194022694
 'Bezalel Smotrich',de,Persons,#ff0000,#ff0000,2,0.69552866105
 'Benjamin Nethanjahu',de,Persons,#ff0000,#ff0000,1,0.692826065
@@ -19,4 +20,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sde Teiman',de,Places,#00ffff,#00ffff,1,0.421150605
 'Nakba',de,Topics,#00ff00,#00ff00,1,0.420714884645
 'Meir Amit',de,Persons,#ff0000,#ff0000,1,0.420360105
-'Sylvia Rafael',de,Persons,#ff0000,#ff0000,1,0.861377395275
