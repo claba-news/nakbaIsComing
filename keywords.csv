@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hisbollah',de,Organisations,#ff00ff,#ff00ff,1,0.769262692
 'Assoziierungsabkommen EU-Israel',de,Organisations,#ff00ff,#ff00ff,1,0.7204614194022694
 'Itamar Ben-Gvir',de,Persons,#ff0000,#ff0000,2,0.6980212621428571
-'Bezalel Smotrich',de,Persons,#ff0000,#ff0000,2,0.69552866105
 'Ron Prosor',de,Persons,#ff0000,#ff0000,1,0.6647538110500001
 'Jassir Arafat',de,Persons,#ff0000,#ff0000,1,0.636910515
 'Zentralrat der Juden',de,Organisations,#ff00ff,#ff00ff,3,0.6296144166646144
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'adidas Israel',de,Companies,#0000ff,#0000ff,1,0.6138449470395813
 'Francesca Albanese',de,Persons,#ff0000,#ff0000,1,0.61377395275
 'Ofer Gefängnis',de,Places,#00ffff,#00ffff,1,0.6039236948125
+'Bezalel Smotrich',de,Persons,#ff0000,#ff0000,2,0.6004253218925
 'Israel Katz',de,Persons,#ff0000,#ff0000,2,0.5958524847236977
 'Benjamin Nethanjahu',de,Persons,#ff0000,#ff0000,1,0.58905217025
 'ICC Israel',de,Organisations,#ff00ff,#ff00ff,1,0.5887817623951789
