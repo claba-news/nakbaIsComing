@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Itamar Ben-Gvir',de,Persons,#ff0000,#ff0000,2,0.6980212621428571
 'Ron Prosor',de,Persons,#ff0000,#ff0000,1,0.6647538110500001
 'Zentralrat der Juden',de,Organisations,#ff00ff,#ff00ff,3,0.6296144166646144
-'Ofer Prison',en,Places,#00ffff,#00ffff,1,0.62577202125
 'Francesca Albanese',de,Persons,#ff0000,#ff0000,1,0.61377395275
 'Assoziierungsabkommen EU-Israel',de,Organisations,#ff00ff,#ff00ff,1,0.613292296491929
 'Rafi Eitan',de,Persons,#ff0000,#ff0000,1,0.6087792586249999
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Nethanjahu',de,Persons,#ff0000,#ff0000,1,0.58905217025
 'Jassir Arafat',de,Persons,#ff0000,#ff0000,1,0.580879286375
 'Jassir Arafat',de,Persons,#ff0000,#ff0000,1,0.580879286375
+'Ofer Prison',en,Places,#00ffff,#00ffff,1,0.5334063680625
 'adidas Israel',de,Companies,#0000ff,#0000ff,1,0.5222182499836441
 'EU Sanktionen Israel',de,Organisations,#ff00ff,#ff00ff,3,0.5167945724910881
 'Israel Katz',de,Persons,#ff0000,#ff0000,3,0.510675527015143
@@ -23,4 +23,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nakba',de,Topics,#00ff00,#00ff00,1,0.420714884645
 'Sylvia Rafael',de,Persons,#ff0000,#ff0000,1,0.3821977263509298
 'Meir Amit',de,Persons,#ff0000,#ff0000,1,0.3573060892499999
-'Golda Meir',de,Persons,#ff0000,#ff0000,1,0.30243870476124995
+'Golda Meir',de,Persons,#ff0000,#ff0000,1,0.3024387047612499
