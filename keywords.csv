@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'EU Sanktionen Israel',de,Organisations,#ff00ff,#ff00ff,3,0.5167945724910881
 'Israel Katz',de,Persons,#ff0000,#ff0000,3,0.510675527015143
 'Bezalel Smotrich',de,Persons,#ff0000,#ff0000,1,0.5103618386086249
-'ICC Israel',de,Organisations,#ff00ff,#ff00ff,1,0.501214573035902
 'Ben Gurion',de,Persons,#ff0000,#ff0000,1,0.4477535884134822
+'ICC Israel',de,Organisations,#ff00ff,#ff00ff,1,0.4269324770805167
 'Sde Teiman',de,Places,#00ffff,#00ffff,1,0.421150605
 'Nakba',de,Topics,#00ff00,#00ff00,1,0.420714884645
 'Elbit Systems',de,Companies,#0000ff,#0000ff,1,0.41904028693625
