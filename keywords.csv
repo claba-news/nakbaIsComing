@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron Prosor',de,Persons,#ff0000,#ff0000,1,0.6647538110500001
 'Zentralrat der Juden',de,Organisations,#ff00ff,#ff00ff,3,0.6296144166646144
 'Francesca Albanese',de,Persons,#ff0000,#ff0000,1,0.61377395275
-'Benjamin Nethanjahu',de,Persons,#ff0000,#ff0000,1,0.58905217025
 'EU Sanktionen Israel',de,Organisations,#ff00ff,#ff00ff,3,0.5167945724910881
 'Bezalel Smotrich',de,Persons,#ff0000,#ff0000,1,0.5103618386086249
+'Benjamin Nethanjahu',de,Persons,#ff0000,#ff0000,1,0.5006943447125
 'Ofer Prison',en,Places,#00ffff,#00ffff,1,0.4547455478531249
 'Ben Gurion',de,Persons,#ff0000,#ff0000,1,0.4477535884134822
 'Rafi Eitan',de,Persons,#ff0000,#ff0000,1,0.4398430143565624
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jassir Arafat',de,Persons,#ff0000,#ff0000,1,0.4205178676559374
 'Jassir Arafat',de,Persons,#ff0000,#ff0000,1,0.4205178676559374
 'Sylvia Rafael',de,Persons,#ff0000,#ff0000,1,0.3821977263509298
-'adidas Israel',de,Companies,#0000ff,#0000ff,1,0.37755771111318287
+'adidas Israel',de,Companies,#0000ff,#0000ff,1,0.3775577111131828
 'ICC Israel',de,Organisations,#ff00ff,#ff00ff,1,0.3633426505184391
 'Meir Amit',de,Persons,#ff0000,#ff0000,1,0.3573060892499999
 'Assoziierungsabkommen EU-Israel',de,Organisations,#ff00ff,#ff00ff,1,0.320492940645015
