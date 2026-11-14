@@ -5,11 +5,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron Prosor',de,Persons,#ff0000,#ff0000,1,0.6647538110500001
 'Francesca Albanese',de,Persons,#ff0000,#ff0000,1,0.61377395275
 'Zentralrat der Juden',de,Organisations,#ff00ff,#ff00ff,2,0.5351731841649222
-'EU Sanktionen Israel',de,Organisations,#ff00ff,#ff00ff,3,0.5167945724910881
 'Bezalel Smotrich',de,Persons,#ff0000,#ff0000,1,0.5103618386086249
 'Benjamin Nethanjahu',de,Persons,#ff0000,#ff0000,1,0.5006943447125
 'Ofer Prison',en,Places,#00ffff,#00ffff,1,0.4547455478531249
 'Ben Gurion',de,Persons,#ff0000,#ff0000,1,0.4477535884134822
+'EU Sanktionen Israel',de,Organisations,#ff00ff,#ff00ff,3,0.4442263466174248
 'Israel Katz',de,Persons,#ff0000,#ff0000,2,0.4340750529628715
 'Sde Teiman',de,Places,#00ffff,#00ffff,1,0.421150605
 'Nakba',de,Topics,#00ff00,#00ff00,1,0.420714884645
